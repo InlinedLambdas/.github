@@ -1,4 +1,4 @@
-![](https://upload.cc/i1/2022/05/13/cxsb6d.jpeg)
+
 
 ## :v: Hey!
 
