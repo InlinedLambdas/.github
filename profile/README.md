@@ -7,3 +7,5 @@ We're *InlinedLambdas* and we occurs everywhere.
 ## :thinking: What we do?
 
 We innovate amazing things and hope them to be reliable and actually useful.  
+
+**Inlined Lambdas has been migrated to [CodeBerg](https://codeberg.org/inlinedlambdas).**
